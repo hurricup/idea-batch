@@ -1,0 +1,1 @@
+IntelliJ IDEA plugin for language support in BAT/CMD Windows batch files
